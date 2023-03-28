@@ -1,0 +1,12 @@
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+h1 {
+    color: rgb(32, 44, 211);
+    text-align: center;
+  } 
+  .p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
